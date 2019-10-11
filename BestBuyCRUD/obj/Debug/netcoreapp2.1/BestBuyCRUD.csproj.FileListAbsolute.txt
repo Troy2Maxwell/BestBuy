@@ -1,0 +1,11 @@
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\bin\Debug\netcoreapp2.1\BestBuyCRUD.deps.json
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\bin\Debug\netcoreapp2.1\BestBuyCRUD.runtimeconfig.json
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\bin\Debug\netcoreapp2.1\BestBuyCRUD.runtimeconfig.dev.json
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\bin\Debug\netcoreapp2.1\BestBuyCRUD.dll
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.csprojAssemblyReference.cache
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.AssemblyInfoInputs.cache
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.AssemblyInfo.cs
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\bin\Debug\netcoreapp2.1\BestBuyCRUD.pdb
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.dll
+C:\Users\Troy Maxwell\source\repos\BestBuyCRUD\obj\Debug\netcoreapp2.1\BestBuyCRUD.pdb
